@@ -26,6 +26,7 @@
   * [帮助中心模块](modules/help.md)
   * [地区管理模块](modules/area.md)
   * [主题管理模块](modules/theme.md)
+  * [插件管理模块](modules/plugin.md)
   * [系统管理模块](modules/system.md)
   * [供应管理模块](modules/supplier.md)
   * [数据分析模块](modules/analysis.md)
