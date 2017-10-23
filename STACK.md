@@ -9,7 +9,9 @@
   - Composer
 - Nodejs
   - WebPack
-  - React.js
+  - Vue.js
+  - Less
+  - Bootstrap
 - 缓存
   - Memcached
   - Redis
@@ -17,3 +19,5 @@
   - Mysql
   - postgres
 - 搜索引擎
+  - elasticsearch
+  - xunsearch

@@ -1,7 +1,6 @@
 # 规范
 
-* [命名]()
-  * [PHP]()
-  * [数据库]()
-  * [CSS]()
-  * [Javascript]()
+* [PHP](php.md)
+* [数据库](database.md)
+* [CSS](css.md)
+* [Javascript](javascript.md)
