@@ -2,6 +2,11 @@
   "title":"TSHOP WIKI",
   "description":"TSHOP WIKI",
   "language":"zh-hans",
-  "plugins":[],
-  "pluginsConfig":{}
+  "plugins":["github-edit"],
+  "pluginsConfig":{
+    "github-edit": {
+      "repo": "tshoping/b2c-wiki",
+      "branch": "master"
+    }
+  }
 }
