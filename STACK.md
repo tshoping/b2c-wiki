@@ -22,3 +22,4 @@
   - elasticsearch
   - xunsearch
 - 消息队列
+- 推荐引擎  
