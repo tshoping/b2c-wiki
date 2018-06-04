@@ -21,3 +21,4 @@
 - 搜索引擎
   - elasticsearch
   - xunsearch
+- 消息队列
