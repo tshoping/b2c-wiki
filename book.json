@@ -2,7 +2,7 @@
   "title":"TSHOP WIKI",
   "description":"TSHOP WIKI",
   "language":"zh-hans",
-  "plugins":["github-edit"],
+  "plugins":[],
   "pluginsConfig":{
     "github-edit": {
       "repo": "tshoping/b2c-wiki",
