@@ -1,6 +1,6 @@
 # 简介
 
-[![Build Status](https://travis-ci.org/tshoping/b2c-wiki.svg?branch=master)](https://travis-ci.org/tshoping/b2c-wiki)
+[![Build Status](https://travis-ci.org/tshopping/b2c-wiki.svg?branch=master)](https://travis-ci.org/tshopping/b2c-wiki)
 
 TSHOP是基于Laravel5.5和Vue.js的一款开源B2C电商系统。适用于单商家用户使用。系统集成强大的会员管理功能。此文档梳理项目需求，并规划系统边界。
 
